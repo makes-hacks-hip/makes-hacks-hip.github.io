@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Github Bereich des Makerspace des Repair-Café Hilpoldstein
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Wilkommen im Github Bereich des Makerspace des Repair-Café Hilpoldstein!
 
-## Commands
+Hier findest du die Dokumnentation und den Code zu unseren Projekten.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Die Hauptseite des Makerspaces findest du hier: https://makes-hacks-hip.de
 
-## Project layout
+Die Seite des Repair-Café Hilpoldstein findest du hier: https://www.repaircafe-hilpoltstein.de
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Unsere Projekte findest du hier: https://github.com/makes-hacks-hip
