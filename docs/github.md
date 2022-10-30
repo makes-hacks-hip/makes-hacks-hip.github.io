@@ -22,7 +22,7 @@ Für jede Projekt-Gruppe gibt es ein Sub-Team. Wir haben z.B. ein Team [lotstati
 
 Pull-requests und andere Beiträge sind von allen willkommen, unabhängig davon ob jemand "aktives Mitglied" ist oder nicht!
 
-Wir sind eine Projekt-Gruppe des Repair-Café Hilpoldstein, und offen für jeden, ohne Mitgliedsbeitrag. Falls du Interesse hast mitzukommen findest du unsere Termine auf der [Seite des Repair-Café](https://www.repaircafe-hilpoltstein.de). 
+Wir sind eine Projekt-Gruppe des Repair-Café Hilpoltstein, und offen für jeden, ohne Mitgliedsbeitrag. Falls du Interesse hast mitzukommen findest du unsere Termine auf der [Seite des Repair-Café](https://www.repaircafe-hilpoltstein.de). 
 
 ### Projektplanung mit Github
 
