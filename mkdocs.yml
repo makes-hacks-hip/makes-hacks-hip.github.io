@@ -1,4 +1,4 @@
-site_name: Makerspace des Repair-Café Hilpoltstein
+site_name: Makerspace Hilpoltstein
 site_url: https://makes-hacks-hip.github.io
 nav:
     - Repair-Café: https://www.repaircafe-hilpoltstein.de
@@ -6,6 +6,7 @@ nav:
     - Lötstation: https://makes-hacks-hip.github.io/MakeLoetstation/
     - Feinstaubsensor: https://makes-hacks-hip.github.io/Feinstaubsensor/
     - LoRaWan Gateway: https://makes-hacks-hip.github.io/LoRaWanGateway/
+    - Micro:bit: https://makes-hacks-hip.github.io/microbit/
     - Github Guide: github.md
 theme: readthedocs
 repo_url: https://github.com/makes-hacks-hip/makes-hacks-hip.github.io/
