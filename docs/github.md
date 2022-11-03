@@ -1,4 +1,4 @@
-# Github Überblick
+# Github Guide
 
 Wir verwenden Github um unsere Projekte zu planen und zu dokumentieren.
 
